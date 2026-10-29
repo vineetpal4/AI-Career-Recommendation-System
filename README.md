@@ -1,11 +1,11 @@
-# CareerAI — AI Career Guidance Platform 🚀
+# CareerAI — AI Career Guidance Platform 
 > *"Turn Your Potential Into Possibility."*
 
 CareerAI is a modern, full-stack career guidance and recommendation platform built for students, freshers, and job switchers. It helps users discover tailored career tracks, identify skill gaps, progress through structured roadmaps, build ATS-friendly resumes, prepare for interviews, and ask questions to an AI Career Assistant.
 
 ---
 
-## 🌟 Key Features
+##  Key Features
 
 1. **AI Career Assessment & Recommendation Engine**
    - 7-question interactive assessment analyzing interests, industry preference, problem-solving style, current skills, and career goals.
@@ -47,7 +47,7 @@ CareerAI is a modern, full-stack career guidance and recommendation platform bui
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 ### Frontend
 - **Framework:** React 19 + Vite 8
@@ -66,7 +66,7 @@ CareerAI is a modern, full-stack career guidance and recommendation platform bui
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Prerequisites
 - **Node.js** (v18+)
@@ -108,7 +108,7 @@ Open your browser at: **`http://localhost:5173`**
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 AI Career Recommendation System/
@@ -146,7 +146,7 @@ AI Career Recommendation System/
 
 ---
 
-## 🔒 Security & Best Practices
+##  Security & Best Practices
 - Passwords hashed using Werkzeug PBKDF2-SHA256 with dynamic salts.
 - Protected endpoints require Bearer JWT authorization.
 - SQLite parameterized queries prevent SQL injection.
